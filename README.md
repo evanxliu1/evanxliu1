@@ -6,16 +6,16 @@ I’m a Data Science major at UC Davis, interseted in building data-driven apps 
 
 ## 📦 Completed Projects
 
-### 🚀 AI Checkout
-[**Chrome Extension & Simulation App**](https://github.com/evanxliu1/AICheckout) • May 2025  
+### 🚀 [AI Checkout](https://github.com/evanxliu1/AICheckout)
+**Chrome Extension & Simulation App** • May 2025  
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow) ![M3](https://img.shields.io/badge/Manifest%20V3-lightgrey)  
 
 - Chrome extension + web app that use OpenAI’s GPT to recommend the optimal credit card for any online purchase.  
 - Dynamically builds LLM prompts from your database of cards & reward categories, so recommendations are always up to date.  
 - Achieved a **4.01×** boost in simulated rewards ($212.44 vs. $52.94 on \$5,294.46 spent) across 100 checkout tests.
 
-### 🔔 Popup!
-[**Cross-Platform Notification App**](https://github.com/evanxliu1/popup) • May 2025  
+### 🔔 Popup!(https://github.com/evanxliu1/popup)
+**Cross-Platform Notification App** • May 2025  
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![OAuth2](https://img.shields.io/badge/OAuth2-green) ![Tkinter](https://img.shields.io/badge/Tkinter-grey)  
 
 - Scheduled multimedia popups driven by Google Drive & Sheets APIs.  
