@@ -1,6 +1,6 @@
 # Hi, I’m Evan Liu👋
 
-I’m a Data Science major at UC Davis, interseted in building data-driven apps using ML and AI. Below are two of my favorite recent projects.
+I’m a Data Science major at UC Davis, interested in building data-driven apps using ML and AI. Below some of my favorite recent projects.
 
 ---
 
