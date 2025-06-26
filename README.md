@@ -27,7 +27,7 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 ## 🚧 Work in Progress
 
 ### 📸 Crash Never  
-[**Collision Prediction System**](https://github.com/your-username/crash-never) • June 2025 (WIP)  
+[**Collision Prediction System**](https://github.com/evanxliu1/crash-never) • June 2025 (WIP)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![YOLO](https://img.shields.io/badge/YOLO-darkred) ![PyTorch](https://img.shields.io/badge/PyTorch-orange)  
 
 - Analyzing 30+ hours of 720p dashcam footage to predict collisions early.  
