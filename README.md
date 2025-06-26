@@ -31,7 +31,7 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![YOLO](https://img.shields.io/badge/YOLO-darkred) ![PyTorch](https://img.shields.io/badge/PyTorch-orange)  
 
 - Analyzing 30+ hours of 720p dashcam footage to predict collisions early.  
-- Combines YOLO object detection, SORT tracking, and a ResNet18+LSTM pipeline to model trajectories & relative velocities.  
+- System that combines YOLO object detection, SORT tracking, and a LSTM pipeline to model trajectories & relative velocities.  
 - Testing across highway, urban, and adverse-weather scenes for robust real-world performance.
 
 ---
