@@ -6,7 +6,7 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 
 ## Completed Projects
 
-### AI Checkout](https://github.com/evanxliu1/AICheckout)
+### [AI Checkout](https://github.com/evanxliu1/AICheckout)
 **Chrome Extension & Simulation App** • May 2025  
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow) ![M3](https://img.shields.io/badge/Manifest%20V3-lightgrey)  
 
