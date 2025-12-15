@@ -1,12 +1,12 @@
-# Hi, I’m Evan Liu👋
+# Hi, I’m Evan Liu
 
 I’m a Data Science major at UC Davis, interested in building data-driven apps using ML and AI. Below are some of my favorite recent projects.
 
 ---
 
-## 📦 Completed Projects
+## Completed Projects
 
-### 🚀 [AI Checkout](https://github.com/evanxliu1/AICheckout)
+### AI Checkout](https://github.com/evanxliu1/AICheckout)
 **Chrome Extension & Simulation App** • May 2025  
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow) ![M3](https://img.shields.io/badge/Manifest%20V3-lightgrey)  
 
@@ -14,7 +14,7 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 - Dynamically builds LLM prompts from your database of cards & reward categories, so recommendations are always up to date.  
 - Achieved a **4.01×** boost in simulated rewards ($212.44 vs. $52.94 on \$5,294.46 spent) across 100 checkout tests.
 
-### 🔔 [Popup!](https://github.com/evanxliu1/popup)
+### [Popup!](https://github.com/evanxliu1/popup)
 **Cross-Platform Notification App** • May 2025  
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![OAuth2](https://img.shields.io/badge/OAuth2-green) ![Tkinter](https://img.shields.io/badge/Tkinter-grey)  
 
@@ -24,9 +24,9 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 
 ---
 
-## 🚧 Work in Progress
+## Work in Progress
 
-### 📸 Crash Never  
+### Crash Never  
 [**Collision Prediction System**](https://github.com/evanxliu1/crash-never) • June 2025 (WIP)  
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![YOLO](https://img.shields.io/badge/YOLO-darkred) ![PyTorch](https://img.shields.io/badge/PyTorch-orange)  
 
@@ -36,9 +36,9 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - 🔗 [LinkedIn](https://linkedin.com/in/evanxliu1)  
-- ✉️ evanxliu1@gmail.com 
+- ✉️ evanliu3344@gmail.com 
 
 ---
