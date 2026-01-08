@@ -1,6 +1,6 @@
 # Hi, I’m Evan Liu
 
-I’m a Data Science major at UC Davis, interested in building data-driven apps using ML and AI. Below are some of my favorite recent projects.
+I’m a Data Science major at UC Davis, interested in building data driven apps using ML and AI. Below are some of my favorite recent projects.
 
 ---
 
@@ -13,14 +13,6 @@ I’m a Data Science major at UC Davis, interested in building data-driven apps 
 - Chrome extension + web app that use OpenAI’s GPT to recommend the optimal credit card for any online purchase.  
 - Dynamically builds LLM prompts from your database of cards & reward categories, so recommendations are always up to date.  
 - Achieved a **4.01×** boost in simulated rewards ($212.44 vs. $52.94 on \$5,294.46 spent) across 100 checkout tests.
-
-### [Popup!](https://github.com/evanxliu1/popup)
-**Cross-Platform Notification App** • May 2025  
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![OAuth2](https://img.shields.io/badge/OAuth2-green) ![Tkinter](https://img.shields.io/badge/Tkinter-grey)  
-
-- Scheduled multimedia popups driven by Google Drive & Sheets APIs.  
-- Automatically pulls images from Drive and messages from Sheets, displaying them via custom Python/Tkinter windows.  
-- Cloud-based content management lets you update notifications without redeploying the app.
 
 ---
 
