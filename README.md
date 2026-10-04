@@ -4,27 +4,40 @@ I’m a Data Science major at UC Davis, interested in building data driven apps 
 
 ---
 
-## Completed Projects
+## Projects
 
 ### [AI Checkout](https://github.com/evanxliu1/AICheckout)
-**Chrome Extension & Simulation App** • May 2025  
-![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow) ![M3](https://img.shields.io/badge/Manifest%20V3-lightgrey)  
 
-- Chrome extension + web app that use OpenAI’s GPT to recommend the optimal credit card for any online purchase.  
-- Dynamically builds LLM prompts from your database of cards & reward categories, so recommendations are always up to date.  
-- Achieved a **4.01×** boost in simulated rewards ($212.44 vs. $52.94 on \$5,294.46 spent) across 100 checkout tests.
+A Chrome extension that tells you which of your cards earns the most at checkout, kept current by an LLM pipeline that reads issuer terms.
 
----
+- Deterministic TypeScript engine ranks your cards in integer cents and basis points, offline.
+- The LLM drafts each card's reward rules from issuer pages, and every fact must cite an exact span of the source. A person reviews and publishes each catalog release; the model has no write path.
+- Measured extraction eval on real issuer terms: the best setups reach 97 to 99% field accuracy on held-out issuers, and a detailed prompt was the biggest lever (65 to 83% with a two-sentence prompt, 92 to 99% guided). [Results](https://ai-checkout-api.onrender.com/results/)
 
-## Work in Progress
+178 cards from the top 10 U.S. issuers · [Live site](https://ai-checkout-api.onrender.com/)
+<sub>TypeScript · React · Chrome MV3 · Fastify · Supabase Postgres · Render</sub>
 
-### Crash Never  
-[**Collision Prediction System**](https://github.com/evanxliu1/crash-never) • June 2025 (WIP)  
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![YOLO](https://img.shields.io/badge/YOLO-darkred) ![PyTorch](https://img.shields.io/badge/PyTorch-orange)  
+### [skills](https://github.com/evanxliu1/skills)
 
-- Analyzing 30+ hours of 720p dashcam footage to predict collisions early.  
-- System that combines YOLO object detection, SORT tracking, and a LSTM pipeline to model trajectories & relative velocities.  
-- Testing across highway, urban, and adverse-weather scenes for robust real-world performance.
+Agent Skills for Claude Code and other coding agents. The main one, `llm-wiki`, sets up an agent-maintained project wiki with `AGENTS.md` wiring and a dependency-free linter in CI.
+
+<sub>Python · Claude Code plugin</sub>
+
+### [lctmr](https://github.com/evanxliu1/lctmr)
+
+An R package for latent class trajectory modeling of early-life growth: find subgroups of children with distinct growth patterns, with diagnostics first and model search after. [DOI](https://doi.org/10.5281/zenodo.22884978)
+
+<sub>R · lcmm · ggplot2</sub>
+
+### [Crash Never](https://github.com/evanxliu1/Crash-Never) (paused)
+
+Collision prediction from dashcam video on the Nexar dataset: YOLOv11 detection, SORT tracking, and a planned LSTM over object trajectories.
+
+<sub>Python · YOLO · PyTorch</sub>
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/evanxliu1) · evanliu3344@gmail.com
 
 ---
 
